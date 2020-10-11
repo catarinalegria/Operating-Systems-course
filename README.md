@@ -1,5 +1,2 @@
-# SO Project
-
-Part1: ✔️️
-Part2: ✔️
-Part3: Work in progress
+# Operating-Systems couse
+3rd project of my Operating Systems course
